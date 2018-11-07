@@ -163,10 +163,12 @@
 #define LZMASDKOBJC_VERSION_MINOR 0
 #define LZMASDKOBJC_VERSION_PATCH 18
 
-
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Weverything"
 #import "LzmaSDKObjCTypes.h"
 #import "LzmaSDKObjCReader.h"
 #import "LzmaSDKObjCWriter.h"
+#pragma clang diagnostic pop
 
 
 /**
