@@ -209,7 +209,7 @@
 - (BOOL) write;
 
 #pragma mark - Unavailable
-- (nullable instancetype) init NS_UNAVAILABLE;
-+ (nullable instancetype) new NS_UNAVAILABLE;
+- (nonnull instancetype) init NS_UNAVAILABLE;
++ (nonnull instancetype) new NS_UNAVAILABLE;
 
 @end
