@@ -37,6 +37,7 @@ The main advantages is:
 
 # Platforms
   s.ios.deployment_target = "8.0"
+  s.tvos.deployment_target = "10.0"
   s.osx.deployment_target = "10.7"
 
   s.requires_arc = true
