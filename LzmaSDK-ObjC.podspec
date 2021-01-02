@@ -36,7 +36,7 @@ The main advantages is:
   s.source           = { :git => "https://github.com/OlehKulykov/LzmaSDKObjC.git", :tag => s.version.to_s }
 
 # Platforms
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "10.0"
   s.tvos.deployment_target = "10.0"
   s.osx.deployment_target = "10.9"
 
