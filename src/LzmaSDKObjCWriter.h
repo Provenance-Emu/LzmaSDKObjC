@@ -21,8 +21,8 @@
  */
 
 
-#import "LzmaSDKObjCReader.h"
-#import "LzmaSDKObjCMutableItem.h"
+#import <PVLibrary/LzmaSDKObjCReader.h>
+#import <PVLibrary/LzmaSDKObjCMutableItem.h>
 
 @class LzmaSDKObjCWriter;
 

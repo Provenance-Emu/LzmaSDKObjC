@@ -25,7 +25,7 @@
 #define __LZMASDKOBJCEXTERN_H__ 1
 
 
-#include "LzmaSDKObjCTypes.h"
+#include <PVLibrary/LzmaSDKObjCTypes.h>
 
 
 /**

@@ -21,7 +21,7 @@
  */
 
 
-#import "LzmaSDKObjCItem.h"
+#import <PVLibrary/LzmaSDKObjCItem.h>
 
 @interface LzmaSDKObjCMutableItem : LzmaSDKObjCItem
 

@@ -23,9 +23,9 @@
 
 #import <Foundation/Foundation.h>
 
-#include "LzmaSDKObjCTypes.h"
-#include "LzmaSDKObjCItem.h"
-#include "LzmaSDKObjC.h"
+#include <PVLibrary/LzmaSDKObjCTypes.h>
+#include <PVLibrary/LzmaSDKObjCItem.h>
+#include <PVLibrary/LzmaSDKObjC.h>
 
 /**
  @brief Lower case string of the 7zip file extension. @b 7z.
