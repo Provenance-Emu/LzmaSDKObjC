@@ -21,7 +21,7 @@
  */
 
 
-#include "LzmaSDKObjCTypes.h"
+#include <PVLibrary/LzmaSDKObjCTypes.h>
 
 /**
  @brief Compress non-empty buffer object with LZMA2.

@@ -180,9 +180,9 @@
 #define LZMASDKOBJC_VERSION_PATCH 1
 
 
-#import "LzmaSDKObjCTypes.h"
-#import "LzmaSDKObjCReader.h"
-#import "LzmaSDKObjCWriter.h"
+#import <PVLibrary/LzmaSDKObjCTypes.h>
+#import <PVLibrary/LzmaSDKObjCReader.h>
+#import <PVLibrary/LzmaSDKObjCWriter.h>
 
 
 /**
